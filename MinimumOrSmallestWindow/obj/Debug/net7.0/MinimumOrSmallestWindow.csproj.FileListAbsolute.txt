@@ -1,0 +1,15 @@
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\bin\Debug\net7.0\MinimumOrSmallestWindow.exe
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\bin\Debug\net7.0\MinimumOrSmallestWindow.deps.json
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\bin\Debug\net7.0\MinimumOrSmallestWindow.runtimeconfig.json
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\bin\Debug\net7.0\MinimumOrSmallestWindow.dll
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\bin\Debug\net7.0\MinimumOrSmallestWindow.pdb
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\MinimumOrSmallestWindow.csproj.AssemblyReference.cache
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\MinimumOrSmallestWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\MinimumOrSmallestWindow.AssemblyInfoInputs.cache
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\MinimumOrSmallestWindow.AssemblyInfo.cs
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\MinimumOrSmallestWindow.csproj.CoreCompileInputs.cache
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\MinimumOrSmallestWindow.dll
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\refint\MinimumOrSmallestWindow.dll
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\MinimumOrSmallestWindow.pdb
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\MinimumOrSmallestWindow.genruntimeconfig.cache
+C:\Users\laum9\RiderProjects\MinimumOrSmallestWindow\MinimumOrSmallestWindow\obj\Debug\net7.0\ref\MinimumOrSmallestWindow.dll

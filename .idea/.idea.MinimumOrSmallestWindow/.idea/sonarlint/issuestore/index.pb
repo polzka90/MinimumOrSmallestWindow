@@ -1,0 +1,9 @@
+
+R
+"MinimumOrSmallestWindow/Program.cs,1\7\1743a422a28c0488ed3f967198264cc299d11e24
+X
+(MinimumOrSmallestWindow/IWindowFinder.cs,7\1\71da13b4ac4c99cf27077614dd93abbe5f5dc6a5
+k
+;Test.MinimumOrSmallestWindow/TestMinimumOrSmallestWindow.cs,6\6\66d2856fb51434a7b166d04435b6758132cd88a2
+W
+'MinimumOrSmallestWindow/WindowFinder.cs,3\8\38c2a3d7f8592237280af070a1d98a51d643d446
